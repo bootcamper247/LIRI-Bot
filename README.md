@@ -16,7 +16,7 @@
 
    * `do-what-it-says`
 
-### Breakdown of the Commands
+### Usage of the Commands
 
 1. `node liri.js concert-this <artist/band name here>`
 
@@ -43,6 +43,8 @@
      * The album that the song is from
 
    * If no song is provided then app search defaults to "The Sign" by Ace of Base.
+   
+   * Current Limit for records returned is set to 1.
 
 3. `node liri.js movie-this '<movie name here>'`
 
@@ -59,7 +61,7 @@
        * Actors in the movie.
      ```
 
-   * If no movie is provided, then app search defaults to in, the movie 'Mr. Nobody.'
+   * If no movie is provided, then app search defaults to, the movie 'Mr. Nobody.'
 
      * If you haven't watched "Mr. Nobody," then you should: <http://www.imdb.com/title/tt0485947/>
 
