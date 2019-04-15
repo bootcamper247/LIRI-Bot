@@ -26,15 +26,8 @@
    ```
        * Name of the venue.
        * Venue location.
-       * Date of the Event (use moment to format this as "MM/DD/YYYY").
-       * The album that the song is from.
+       * Date of the Event (use moment to format this as "MM/DD/YYYY")
    ```
-
-     * Name of the venue
-
-     * Venue location
-
-     * Date of the Event (use moment to format this as "MM/DD/YYYY")
      
    ![Image of concert-this](https://github.com/bootcamper247/LIRI-Bot/blob/master/images/concert.png)
      
