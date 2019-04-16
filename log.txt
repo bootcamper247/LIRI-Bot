@@ -1,0 +1,749 @@
+ 
+< Result For : concert-this imagine >
+ 
+4 Events Found 
+ 
+(1)
+Venue            : Sandy Amphitheater
+Location         : Sandy, United States
+Date(MM/DD/YYYY) : 06/21/2019
+ 
+(2)
+Venue            : Atlanta Motor Speedway
+Location         : Hampton, United States
+Date(MM/DD/YYYY) : 09/20/2019
+ 
+(3)
+Venue            : Atlanta Motor Speedway
+Location         : Hampton, United States
+Date(MM/DD/YYYY) : 09/21/2019
+ 
+(4)
+Venue            : Atlanta Motor Speedway
+Location         : Hampton, United States
+Date(MM/DD/YYYY) : 09/22/2019
+ 
+ 
+< Result For : concert-this imaginedragons >
+ 
+3 Events Found 
+ 
+(1)
+Venue            : BottleRock
+Location         : Napa, United States
+Date(MM/DD/YYYY) : 05/24/2019
+ 
+(2)
+Venue            : Visarno Arena
+Location         : Florence, Italy
+Date(MM/DD/YYYY) : 06/02/2019
+ 
+(3)
+Venue            : Pro Football Hall of Fame
+Location         : Canton, United States
+Date(MM/DD/YYYY) : 08/04/2019
+ 
+ 
+< Result For : concert-this adele >
+ 
+Sorry, No Matches Found
+ 
+< Result For : concert-this nick jonas >
+ 
+Sorry, No Matches Found
+ 
+< Result For : concert-this keith urban >
+ 
+15 Events Found 
+ 
+(1)
+Venue            : Hunter Mountain Resort
+Location         : Hunter, United States
+Date(MM/DD/YYYY) : 06/07/2019
+ 
+(2)
+Venue            : Hunter Mountain
+Location         : Hunter, United States
+Date(MM/DD/YYYY) : 06/09/2019
+ 
+(3)
+Venue            : Huntington Bank Pavilion at Northerly Island
+Location         : Chicago, United States
+Date(MM/DD/YYYY) : 06/21/2019
+ 
+(4)
+Venue            : Huntington Bank Pavilion at Northerly Island
+Location         : Chicago, United States
+Date(MM/DD/YYYY) : 06/22/2019
+ 
+(5)
+Venue            : LaVell Edwards Stadium
+Location         : Provo, United States
+Date(MM/DD/YYYY) : 07/04/2019
+ 
+(6)
+Venue            : Michigan International Speedway
+Location         : Brooklyn, United States
+Date(MM/DD/YYYY) : 07/19/2019
+ 
+(7)
+Venue            : Cheyenne Frontier Days - Frontier Park
+Location         : Cheyenne, United States
+Date(MM/DD/YYYY) : 07/26/2019
+ 
+(8)
+Venue            : WE Fest Country Music Festival at Soo Pass Ranch
+Location         : Detroit Lakes, United States
+Date(MM/DD/YYYY) : 08/01/2019
+ 
+(9)
+Venue            : Sioux Empire Fair
+Location         : Sioux Falls, United States
+Date(MM/DD/YYYY) : 08/02/2019
+ 
+(10)
+Venue            : En-Joie Golf Course
+Location         : Endicott, United States
+Date(MM/DD/YYYY) : 08/16/2019
+ 
+(11)
+Venue            : Hard Rock Live at Etess Arena
+Location         : Atlantic City, United States
+Date(MM/DD/YYYY) : 08/17/2019
+ 
+(12)
+Venue            : Puyallup Fairgrounds
+Location         : Puyallup, United States
+Date(MM/DD/YYYY) : 08/31/2019
+ 
+(13)
+Venue            : Kentucky Expo Center
+Location         : Louisville, United States
+Date(MM/DD/YYYY) : 09/14/2019
+ 
+(14)
+Venue            : The Park at Harlinsdale Farm
+Location         : Franklin, United States
+Date(MM/DD/YYYY) : 09/21/2019
+ 
+(15)
+Venue            : Choctaw Grand Theater
+Location         : Durant, United States
+Date(MM/DD/YYYY) : 10/18/2019
+ 
+ 
+< Result For : concert-this  >
+ 
+8 Events Found 
+
+(1)
+Venue            : Mollenpark
+Location         : Aalborg, Denmark
+Date(MM/DD/YYYY) : 06/01/2019
+ 
+(2)
+Venue            : Lanxess Arena
+Location         : Cologne, Germany
+Date(MM/DD/YYYY) : 06/03/2019
+ 
+(3)
+Venue            : O2 ARENA
+Location         : Prague, Czech Republic
+Date(MM/DD/YYYY) : 06/05/2019
+ 
+(4)
+Venue            : Tauron Arena
+Location         : Kraków, Poland
+Date(MM/DD/YYYY) : 06/06/2019
+ 
+(5)
+Venue            : Ziggo Dome
+Location         : Amsterdam, Netherlands
+Date(MM/DD/YYYY) : 06/10/2019
+ 
+(6)
+Venue            : AccorHotels Arena
+Location         : Paris, France
+Date(MM/DD/YYYY) : 06/11/2019
+ 
+(7)
+Venue            : Coca-Cola Arena
+Location         : Dubai, United Arab Emirates
+Date(MM/DD/YYYY) : 06/14/2019
+ 
+(8)
+Venue            : Curacao North Sea Jazz Festival
+Location         : Curacao, Netherlands Antilles
+Date(MM/DD/YYYY) : 08/31/2019
+ 
+ 
+< Result For : movie-this casablanca >
+ 
+ 
+Title                  : Casablanca
+Year Released          : 1942
+IMDB Rating            : 8.5
+Rotten Tomatoes Rating : 97%
+Country Produced In    : USA
+Language               : English, French, German, Italian
+Actors                 : Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains
+ 
+Plot : A cynical nightclub owner protects an old flame and her husband from Nazis in Morocco.
+ 
+ 
+< Result For : movie-this tron >
+ 
+ 
+Title                  : TRON
+Year Released          : 1982
+IMDB Rating            : 6.8
+Rotten Tomatoes Rating : 71%
+Country Produced In    : USA
+Language               : English
+Actors                 : Jeff Bridges, Bruce Boxleitner, David Warner, Cindy Morgan
+ 
+Plot : A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
+ 
+ 
+< Result For : movie-this sound of music >
+ 
+ 
+Title                  : Sound of Music
+Year Released          : 1963–1970
+IMDB Rating            : 7.8
+Rotten Tomatoes Rating : N/A
+Country Produced In    : Australia
+Language               : English
+Actors                 : Dawn Lake, Bobby Limb, Beverly Sands, Peta Toppano
+ 
+Plot : N/A
+ 
+ 
+< Result For : movie-this the sound of music >
+ 
+ 
+Title                  : The Sound of Music
+Year Released          : 1965
+IMDB Rating            : 8.0
+Rotten Tomatoes Rating : 86%
+Country Produced In    : USA
+Language               : English, German
+Actors                 : Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn
+ 
+Plot : A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.
+ 
+ 
+< Result For : movie-this shrek >
+ 
+ 
+Title                  : Shrek
+Year Released          : 2001
+IMDB Rating            : 7.9
+Rotten Tomatoes Rating : 88%
+Country Produced In    : USA
+Language               : English
+Actors                 : Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+ 
+Plot : A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
+ 
+ 
+< Result For : movie-this the secret life of pets >
+ 
+ 
+Title                  : The Secret Life of Pets
+Year Released          : 2016
+IMDB Rating            : 6.5
+Rotten Tomatoes Rating : 74%
+Country Produced In    : Japan, USA, France
+Language               : English
+Actors                 : Louis C.K., Eric Stonestreet, Kevin Hart, Jenny Slate
+ 
+Plot : The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.
+ 
+ 
+< Result For : spotify-this-song  >
+ 
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (US Album) [Remastered]
+Link to Track : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Song Name     : The Sign
+ 
+Artist Name   : Ace of Base
+Album Name    : Greatest Hits
+Link to Track : https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+Song Name     : The Sign
+ 
+Artist Name   : Ace of Base
+Album Name    : Happy Nation (U.S. Version) [Remastered]
+Link to Track : https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+Song Name     : The Sign
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (The Remixes)
+Link to Track : https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+Song Name     : The Sign
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (The Remixes)
+Link to Track : https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+Song Name     : The Sign 
+ 
+ 
+< Result For : do-what-it-says  >
+ 
+From File : movie-this,"the peanuts movie"
+ 
+Title                  : The Peanuts Movie
+Year Released          : 2015
+IMDB Rating            : 7.1
+Rotten Tomatoes Rating : 87%
+Country Produced In    : USA
+Language               : English
+Actors                 : Trombone Shorty, Rebecca Bloom, Anastasia Bredikhina, Francesca Capaldi
+ 
+Plot : Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their archnemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life.
+ 
+ 
+< Result For : spotify-this-song manic monday >
+ 
+ 
+Artist Name   : The Bangles
+Album Name    : Different Light (Expanded Edition)
+Link to Track : https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO
+Song Name     : Manic Monday
+ 
+Artist Name   : The Bangles
+Album Name    : Greatest Hits
+Link to Track : https://open.spotify.com/track/4gnAKtZkXPYjWcTnsagfA9
+Song Name     : Manic Monday
+ 
+Artist Name   : The Bangles
+Album Name    : Different Light
+Link to Track : https://open.spotify.com/track/5KYoPa5akZxiCn38xelbqI
+Song Name     : Manic Monday
+ 
+Artist Name   : The Bangles
+Album Name    : The Essential Bangles
+Link to Track : https://open.spotify.com/track/5fZEzaBQnVr2kIom4DOrK1
+Song Name     : Manic Monday
+ 
+Artist Name   : Relient K
+Album Name    : Mmhmm10
+Link to Track : https://open.spotify.com/track/4fIXgrmqHN0et61dkvKkfe
+Song Name     : Manic Monday
+ 
+Artist Name   : Various Artists
+Album Name    : Punk Goes 80's
+Link to Track : https://open.spotify.com/track/7H5TBEO8xyXW0Pwt1YlYuS
+Song Name     : Manic Monday
+ 
+Artist Name   : The Bangles
+Album Name    : Super Hits
+Link to Track : https://open.spotify.com/track/3DH9owkNS6l1rr5dNPbn6O
+Song Name     : Manic Monday
+ 
+Artist Name   : The Bangles
+Album Name    : Different Light (Expanded Edition)
+Link to Track : https://open.spotify.com/track/3JWumPw9b9Y9H0F0ox8KXM
+Song Name     : Manic Monday - Extended Remix
+ 
+Artist Name   : Various Artists
+Album Name    : Playlist: The Very Best '80s Radio Hits
+Link to Track : https://open.spotify.com/track/54qrEGmR0eis06ES2eKTuC
+Song Name     : Manic Monday
+ 
+Artist Name   : Loeka Longakit
+Album Name    : Manic Monday
+Link to Track : https://open.spotify.com/track/4TyQoTBbfxV2B5nNXic4c9
+Song Name     : Manic Monday
+ 
+Artist Name   : Various Artists
+Album Name    : Best of Classic Rock Music Top Hits 60's 70's 80's. La Mejor Musica y Grandes Éxitos
+Link to Track : https://open.spotify.com/track/42UuLX1ilTf57NbELgIR8U
+Song Name     : It's Just Another Manic Monday
+ 
+Artist Name   : Punk People
+Album Name    : Punk Christmas
+Link to Track : https://open.spotify.com/track/7vdjSS0fZAKK3qqmTS3MmU
+Song Name     : Manic Monday
+ 
+Artist Name   : Various Artists
+Album Name    : Las Mejores Canciones Románticas para Conquistar, Seducir, Amar y Enamorar. Músicas en Inglés y Éxitos de los 80's 90's
+Link to Track : https://open.spotify.com/track/0OqZdrow8X4455gvU1AwO1
+Song Name     : Just Another Manic Monday
+ 
+Artist Name   : The Pinks
+Album Name    : Manic Monday
+Link to Track : https://open.spotify.com/track/3g64q73mYHqA8K0TeG5G8L
+Song Name     : Manic Monday
+ 
+Artist Name   : Various Artists
+Album Name    : Bossa Lounge Brasil, Vol. 5 (Bossa Versions)
+Link to Track : https://open.spotify.com/track/2mrFADtfpr1PowWcDLM6qS
+Song Name     : Manic Monday - Bossa Version
+ 
+Artist Name   : Various Artists
+Album Name    : Lo Mejor de los 80: Los 40 Principales Éxitos de la Música Internacional. Cuarenta Canciones Pop Rock y Disco Años Ochenta
+Link to Track : https://open.spotify.com/track/3IogmPVY8PXYEuRkpsxB45
+Song Name     : It's Just Another Manic Monday
+ 
+Artist Name   : Various Artists
+Album Name    : Bossa Nova Café: Bossa Cappuccino
+Link to Track : https://open.spotify.com/track/570asvj4T3px4kG3upBbSz
+Song Name     : Manic Monday
+ 
+Artist Name   : Various Artists
+Album Name    : 80s Pop
+Link to Track : https://open.spotify.com/track/4PzUoh2GHSO3p27MxZSR2Y
+Song Name     : Manic Monday
+ 
+Artist Name   : The March Divide
+Album Name    : Manic Monday
+Link to Track : https://open.spotify.com/track/21N4tFCUrkUea7eSamXxxg
+Song Name     : Manic Monday
+ 
+Artist Name   : Highlights
+Album Name    : Vi lever om natten
+Link to Track : https://open.spotify.com/track/32X2BySKG2c8E55FrV9l1o
+Song Name     : Manic Monday
+ 
+< Result For : spotify-this-song manic monday >
+ 
+ 
+Artist Name   : The Bangles
+Album Name    : Different Light (Expanded Edition)
+Link to Track : https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO
+Song Name     : Manic Monday
+ 
+Artist Name   : The Bangles
+Album Name    : Greatest Hits
+Link to Track : https://open.spotify.com/track/4gnAKtZkXPYjWcTnsagfA9
+Song Name     : Manic Monday
+ 
+Artist Name   : The Bangles
+Album Name    : Different Light
+Link to Track : https://open.spotify.com/track/5KYoPa5akZxiCn38xelbqI
+Song Name     : Manic Monday
+ 
+Artist Name   : The Bangles
+Album Name    : The Essential Bangles
+Link to Track : https://open.spotify.com/track/5fZEzaBQnVr2kIom4DOrK1
+Song Name     : Manic Monday
+ 
+Artist Name   : Relient K
+Album Name    : Mmhmm10
+Link to Track : https://open.spotify.com/track/4fIXgrmqHN0et61dkvKkfe
+Song Name     : Manic Monday 
+ 
+
+< Result For : spotify-this-song shape of you >
+ 
+Artist Name   : Ed Sheeran
+Album Name    : ÷ (Deluxe)
+Link to Track : https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+Song Name     : Shape of You
+ 
+Artist Name   : Ed Sheeran
+Album Name    : Shape of You
+Link to Track : https://open.spotify.com/track/0FE9t6xYkqWXU2ahLh6D8X
+Song Name     : Shape of You
+ 
+Artist Name   : Ed Sheeran
+Album Name    : Shape of You (Acoustic)
+Link to Track : https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso
+Song Name     : Shape of You - Acoustic
+ 
+Artist Name   : Pentatonix
+Album Name    : PTX Presents: Top Pop, Vol. I
+Link to Track : https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG
+Song Name     : Despacito x Shape Of You
+ 
+Artist Name   : Our Last Night
+Album Name    : Shape of You (Rock)
+Link to Track : https://open.spotify.com/track/7hH4dSp71EOv3XS57e8CYu
+Song Name     : Shape of You - Rock
+ 
+< Result For : spotify-this-song its only words >
+ 
+Artist Name   : Various Artists
+Album Name    : Original Rock Chicks
+Link to Track : https://open.spotify.com/track/48h81anp15CwWJRdboQjP4
+Song Name     : It's Only Words
+ 
+Artist Name   : The Best Pessimist
+Album Name    : The Half-World
+Link to Track : https://open.spotify.com/track/27XrmeYysdT0VkyiegVqlp
+Song Name     : It's Only Words
+ 
+Artist Name   : Jon Butcher Axis
+Album Name    : Jon Butcher Axis
+Link to Track : https://open.spotify.com/track/7zK9iTGTa8abQmGFBaL9Ix
+Song Name     : It's Only Words
+ 
+Artist Name   : L Marie
+Album Name    : It's Only Words
+Link to Track : https://open.spotify.com/track/1dbK5v9XRSgITQ2BHkGvBS
+Song Name     : It's Only Words
+ 
+Artist Name   : Shannon Colebrook
+Album Name    : It's Only Words
+Link to Track : https://open.spotify.com/track/12WfOtsf4Rbz4KzoBF8EtQ
+Song Name     : It's Only Words
+ 
+
+< Result For : spotify-this-song the sign >
+ 
+Artist Name   : Harry Styles
+Album Name    : Harry Styles
+Link to Track : https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+Song Name     : Sign of the Times
+ 
+Artist Name   : Various Artists
+Album Name    : Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+Link to Track : https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
+Song Name     : Scared of the Dark (feat. XXXTENTACION)
+ 
+Artist Name   : Ty Dolla $ign
+Album Name    : Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Link to Track : https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+Song Name     : Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+ 
+Artist Name   : Jeremih
+Album Name    : Late Nights: The Album
+Link to Track : https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
+Song Name     : Impatient
+ 
+Artist Name   : MihTy
+Album Name    : The Light
+Link to Track : https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
+Song Name     : The Light
+< Result For : spotify-this-song the sign - ace of base >
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (US Album) [Remastered]
+Link to Track : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Song Name     : The Sign
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (US Album) [Remastered]
+Link to Track : https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+Song Name     : All That She Wants
+ 
+Artist Name   : Ace of Base
+Album Name    : Greatest Hits
+Link to Track : https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+Song Name     : The Sign
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (US Album) [Remastered]
+Link to Track : https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+Song Name     : Don't Turn Around
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (US Album) [Remastered]
+Link to Track : https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+Song Name     : Wheel of Fortune
+
+
+< Result For : spotify-this-song dancing queen >
+ 
+Artist Name   : ABBA
+Album Name    : Arrival
+Link to Track : https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56
+Song Name     : Dancing Queen
+ 
+Artist Name   : ABBA
+Album Name    : ABBA Gold
+Link to Track : https://open.spotify.com/track/2ATDkfqprlNNe9mYWodgdc
+Song Name     : Dancing Queen
+ 
+Artist Name   : Cast Of “Mamma Mia! Here We Go Again”
+Album Name    : Mamma Mia! Here We Go Again (Original Motion Picture Soundtrack)
+Link to Track : https://open.spotify.com/track/3zZ6W6T7TuGJmcyvZ5VRlo
+Song Name     : Dancing Queen
+ 
+Artist Name   : Cast Of Mamma Mia The Movie
+Album Name    : Mamma Mia! The Movie Soundtrack
+Link to Track : https://open.spotify.com/track/33trZRsRCHDPemnACBcLJJ
+Song Name     : Dancing Queen - From 'Mamma Mia!' Original Motion Picture Soundtrack
+ 
+Artist Name   : ABBA
+Album Name    : The Essential Collection
+Link to Track : https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM
+Song Name     : Dancing Queen
+
+< Result For : spotify-this-song despacito >
+ 
+Artist Name   : Luis Fonsi
+Album Name    : Despacito Feat. Justin Bieber (Remix)
+Link to Track : https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2
+Song Name     : Despacito - Remix
+ 
+Artist Name   : Luis Fonsi
+Album Name    : VIDA
+Link to Track : https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb
+Song Name     : Despacito
+ 
+Artist Name   : Various Artists
+Album Name    : Shut Up Lets Dance
+Link to Track : https://open.spotify.com/track/5AgTL2WmiCvoObA8fpncKs
+Song Name     : Despacito
+ 
+Artist Name   : JID
+Album Name    : DiCaprio 2
+Link to Track : https://open.spotify.com/track/2oUI2kKbVOowQpg0flQbkr
+Song Name     : Despacito Too
+ 
+Artist Name   : Madilyn Bailey
+Album Name    : Despacito
+Link to Track : https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH
+Song Name     : Despacito
+
+
+< Result For : spotify-this-song  >
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (US Album) [Remastered]
+Link to Track : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Song Name     : The Sign
+ 
+Artist Name   : Ace of Base
+Album Name    : Greatest Hits
+Link to Track : https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+Song Name     : The Sign
+
+< Result For : spotify-this-song  >
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (US Album) [Remastered]
+Link to Track : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Song Name     : The Sign
+ 
+Artist Name   : Ace of Base
+Album Name    : Greatest Hits
+Link to Track : https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+Song Name     : The Sign
+ 
+Artist Name   : Ace of Base
+Album Name    : Happy Nation (U.S. Version) [Remastered]
+Link to Track : https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+Song Name     : The Sign
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (The Remixes)
+Link to Track : https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+Song Name     : The Sign
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (The Remixes)
+Link to Track : https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+Song Name     : The Sign
+
+< Result For : spotify-this-song  >
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (US Album) [Remastered]
+Link to Track : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Song Name     : The Sign
+ 
+< Result For : spotify-this-song despacito >
+ 
+Artist Name   : Luis Fonsi
+Album Name    : Despacito Feat. Justin Bieber (Remix)
+Link to Track : https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2
+Song Name     : Despacito - Remix
+ 
+< Result For : spotify-this-song dancing queen >
+ 
+Artist Name   : ABBA
+Album Name    : Arrival
+Link to Track : https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56
+Song Name     : Dancing Queen
+ 
+
+< Result For : spotify-this-song I Want it That Way >
+ 
+Artist Name   : Backstreet Boys
+Album Name    : The Hits--Chapter One
+Link to Track : https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Song Name     : I Want It That Way
+ 
+< Result For : do-what-it-says  >
+ 
+From File : spotify-this-song,"I Want it That Way"
+ 
+Artist Name   : Backstreet Boys
+Album Name    : The Hits--Chapter One
+Link to Track : https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Song Name     : I Want It That Way
+ 
+
+< Result For : spotify-this-song dancing queen >
+ 
+Artist Name   : ABBA
+Album Name    : Arrival
+Link to Track : https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56
+Song Name     : Dancing Queen
+
+  
+< Result For : spotify-this-song  >
+ 
+Artist Name   : Ace of Base
+Album Name    : The Sign (US Album) [Remastered]
+Link to Track : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Song Name     : The Sign
+ 
+< Result For : spotify-this-song 82344y >
+ 
+Sorry no match found
+    
+ 
+< Result For : do-what-it-says  >
+ 
+From File : spotify-this-song,"I Want it That Way"
+ 
+Artist Name   : Backstreet Boys
+Album Name    : The Hits--Chapter One
+Link to Track : https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Song Name     : I Want It That Way
+  
+ 
+< Result For : spotify-this-song manic monday >
+ 
+Artist Name   : The Bangles
+Album Name    : Different Light (Expanded Edition)
+Link to Track : https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO
+Song Name     : Manic Monday
+   
+
+< Result For : do-what-it-says  >
+ 
+From File : movie-this,"the peanuts movie"
+ 
+Title                  : The Peanuts Movie
+Year Released          : 2015
+IMDB Rating            : 7.1
+Rotten Tomatoes Rating : 87%
+Country Produced In    : USA
+Language               : English
+Actors                 : Trombone Shorty, Rebecca Bloom, Anastasia Bredikhina, Francesca Capaldi
+ 
+Plot : Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their archnemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life.
+ 
+ 
+< Result For : movie-this  >
+ 
+If you haven't watched 'Mr. Nobody,' then you should: <http://www.imdb.com/title/tt0485947/>
+It's on Netflix!
+ 
+Title                  : Mr. Nobody
+Year Released          : 2009
+IMDB Rating            : 7.8
+Rotten Tomatoes Rating : 67%
+Country Produced In    : Belgium, Germany, Canada, France, USA, UK
+Language               : English, Mohawk
+Actors                 : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ 
+Plot : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ 
