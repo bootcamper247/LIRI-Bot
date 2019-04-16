@@ -84,6 +84,7 @@
 ### Additionally
 
 * Output is logged to terminal/bash window, and also added to a .txt file called `log.txt`.
+ <https://github.com/bootcamper247/LIRI-Bot/blob/master/log.txt>
 
 * Each command run is appended to the `log.txt` file. 
 
